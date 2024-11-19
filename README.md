@@ -109,8 +109,8 @@
             </a>
           </td>
           <td colspan="2">
-            <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b1218539a899aeeef6f73d90ba1f9337d9609520e45703764b872e2300e6e05b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d7973656c662d4b6973686f7265267468656d653d68696768636f6e747261737426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374">
-              <img src="https://camo.githubusercontent.com/b1218539a899aeeef6f73d90ba1f9337d9609520e45703764b872e2300e6e05b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d7973656c662d4b6973686f7265267468656d653d68696768636f6e747261737426686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golla-UdayKiran&amp;theme=highcontrast&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" style="max-width: 100%;">
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Golla-UdayKiran&amp;theme=highcontrast&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact">
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golla-UdayKiran&amp;theme=highcontrast&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="Top Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golla-UdayKiran&amp;theme=highcontrast&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" style="max-width: 100%;">
             </a>
           </td>
         </tr>
