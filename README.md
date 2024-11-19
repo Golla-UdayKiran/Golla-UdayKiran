@@ -21,8 +21,6 @@
     </a>
   </div>
 
-  🔭 I’m currently working on Data Science &amp; Machine Learning<br>👯 I’m looking to collaborate on UI/UX Designing<br>🤝 I’m looking for help with engineering creative ML Applications<br>🌱 I’m currently learning about Life<br>💬 Ask me about Python, Data Science and Machine Learning<br>⚡ Fun fact I think I am a coder with a split personality – one side trains models, the other styles buttons! 😄
-
   <div class="markdown-heading" dir="auto">
     <h2 class="heading-element" dir="auto">
       🌐 
