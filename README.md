@@ -1,6 +1,4 @@
-<div class="markdown-heading" dir="auto">
-  <h1 align="center" class="heading-element" dir="auto"> Hi 👋🏻, I'm Golla Uday Kiran</h1>
-</div>
+<div class="markdown-heading" dir="auto"><h1 align="center" class="heading-element" dir="auto"> Hi 👋🏻, I'm Golla Uday Kiran</h1></div>
 - 👋 Hi, I’m @Golla-UdayKiran
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
