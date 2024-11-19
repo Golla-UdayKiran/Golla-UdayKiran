@@ -134,8 +134,8 @@
   </div>
 
   <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a9b5a293042718a8e731087cf231017c677e0f227b18a8d1d8c5effee112ad5a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d7973656c662d4b6973686f7265267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d66616c7365266d617267696e2d773d34">
-      <img src="https://camo.githubusercontent.com/a9b5a293042718a8e731087cf231017c677e0f227b18a8d1d8c5effee112ad5a/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4d7973656c662d4b6973686f7265267468656d653d7261646963616c266e6f2d6672616d653d66616c7365266e6f2d62673d66616c7365266d617267696e2d773d34" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Golla-UdayKiran&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" style="max-width: 100%;">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-trophy.vercel.app/?username=Golla-UdayKiran&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4">
+      <img src="https://github-profile-trophy.vercel.app/?username=Golla-UdayKiran&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" alt="" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Golla-UdayKiran&amp;theme=radical&amp;no-frame=false&amp;no-bg=false&amp;margin-w=4" style="max-width: 100%;">
     </a>
   </p>
 
