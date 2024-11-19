@@ -1,7 +1,7 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   
   <div class="markdown-heading" dir="auto">
-    <h1 align="center" class="heading-element" dir="auto">
+    <h1 align="center" class="heading-element" dir="auto" style="margin: 0;">
       Hi 👋🏻, I'm Golla Uday Kiran
     </h1>
     <a id="user-content--hi--im-golla-uday-kiran" class="anchor" aria-label="Permalink:  Hi 👋🏻, I'm Golla Uday Kiran" href="#-hi--im-golla-uday-kiran">
