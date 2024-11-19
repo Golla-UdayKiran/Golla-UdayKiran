@@ -164,7 +164,7 @@
   
   <p dir="auto">
     <a href="https://visitcount.itsvg.in" rel="nofollow">
-      <img src="https://camo.githubusercontent.com/2d22b021519918eee4613a636267361c7582bd1a73c4cbdf9ce5f23ffdd4f674/68747470733a2f2f7669736974636f756e742e69747376672e696e2f6170693f69643d4d7973656c662d4b6973686f72652669636f6e3d3626636f6c6f723d38" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=Golla-UdayKiran&amp;icon=6&amp;color=8" style="max-width: 100%;">
+      <img src="https://visitcount.itsvg.in/api?id=Golla-UdayKiran&amp;icon=6&amp;color=8" alt="" data-canonical-src="https://visitcount.itsvg.in/api?id=Golla-UdayKiran&amp;icon=6&amp;color=8" style="max-width: 100%;">
     </a>
   </p>
   
