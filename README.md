@@ -1,4 +1,4 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<article class="markdown-body entry-content container-lg f5" itemprop="text" >
   
   <div class="markdown-heading" dir="auto">
     <h1 align="center" class="heading-element" dir="auto">
