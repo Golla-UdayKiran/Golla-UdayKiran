@@ -45,7 +45,7 @@
 </div>
 
 <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white">
+  <a target="_blank" rel="noopener noreferrer nofollow">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C" data-canonical-src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow">
