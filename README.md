@@ -24,7 +24,7 @@
 </div>
 
 <p dir="auto">
-  <a href="https://linkedin.com/in/gollaudaykiran" rel="nofollow" target="_blank">
+  <a href="https://linkedin.com/in/gollaudaykiran" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
 </p>
